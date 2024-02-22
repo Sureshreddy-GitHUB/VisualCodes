@@ -33,7 +33,6 @@ public class Stack1 {
 		{
 			System.out.println("Not valid");
 		}
-
 	}
-
 }
+//suresh reddy
