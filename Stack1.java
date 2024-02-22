@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 public class Stack1 {
-
+//vadating the String using stack Collection interface
 	public static void main(String[] args) {
 		String str="(aa)";
 		Stack<Character> s=new Stack<>();
